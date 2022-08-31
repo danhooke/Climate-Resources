@@ -1,12 +1,13 @@
 # Climate_graph_sites
 Collection of Resources of climate change data visualisations to use for inspiration
 
-General:
+## General:
+
 [FT Climate Graphic of the Week](https://www.ft.com/climate-capital)
 
 Bloomberg
 
-Climate Science/Weather:
+## Climate Science/Weather:
 
 [Columbia](http://www.columbia.edu/~mhs119/)
 
@@ -16,5 +17,7 @@ Climate Science/Weather:
 
 [Zack Labe](https://zacklabe.com/arctic-sea-ice-figures/)
 
-[UEA](https://crudata.uea.ac.uk/~timo/diag/tempdiag.htm)
+[Tim Osborn/UEA](https://crudata.uea.ac.uk/~timo/diag/tempdiag.htm)
+
+[Berkeley Earth](http://berkeleyearth.org/data-visualization/)
 
