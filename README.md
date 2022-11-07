@@ -1,13 +1,26 @@
-# Climate_graph_sites
-Collection of Resources of climate change data visualisations to use for inspiration
+# Data Resources
+Collection of open source climate change data sources to use.
 
-## General:
+## Emissions
+
+[Open Climate Data](http://openclimatedata.net/) (meta resource)
+
+## Climate and Weather
+
+[Zack Labe](https://zacklabe.com/resources-and-data-references/)
+
+# Visualisations
+Collection of climate change data visualisations to use for inspiration.
+
+## Cross-Sectional
 
 [FT Climate Graphic of the Week](https://www.ft.com/climate-capital)
 
-Bloomberg
+## Emissions/Energy
 
-## Climate Science/Weather:
+[GCP/Robbie Andrew](https://robbieandrew.github.io/GCB2021/)
+
+## Climate and Weather
 
 [Columbia](http://www.columbia.edu/~mhs119/)
 
@@ -21,6 +34,4 @@ Bloomberg
 
 [Berkeley Earth](http://berkeleyearth.org/data-visualization/)
 
-## Emissions/Energy
 
-[GCP/Robbie Andrew](https://robbieandrew.github.io/GCB2021/)
