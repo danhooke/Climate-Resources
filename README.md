@@ -34,4 +34,43 @@ Collection of climate change data visualisations to use for inspiration.
 
 [Berkeley Earth](http://berkeleyearth.org/data-visualization/)
 
+## Target GIFs 
+
+
+- [NASA Temperatures](https://earthobservatory.nasa.gov/images/150152/a-july-of-extremes)
+
+- [Daily Temperature](https://twitter.com/neilrkaye/status/1479407670692134917)
+
+- [Monthly SST](https://twitter.com/giswqs/status/1477252204767633408)
+
+- [Climate Central Ocean Temperatures](https://www.climatecentral.org/climate-matters/ocean-warming)
+
+
+- [Pharos Climate GIFs](https://mangrove-denim-956.notion.site/c0ce8d0de8014b68b7953230f488e41b?v=50b3300261844e2f8a8c19e9a8755e1c)
+
+- [Brazil Climate GIFs](https://twitter.com/dr_xeo/status/1526846826334363648)
+
+- [Global Precipitation](https://twitter.com/Hydrology_IRPI/status/1526212806026076160)
+
+- [Hourly Precipitation](https://twitter.com/FabClimate/status/1522293296713895937)
+
+
+
+- [Daily Emissions](https://twitter.com/LiuzhuLiu/status/1456275505905221644)
+
+- [Nord Stream Emissions](https://twitter.com/CEA_Officiel/status/1577692609803390979)
+
+
+
+- [Daily Atmospheric Methane Concentration](https://atmosphere.copernicus.eu/new-cams-dataset-reveals-long-term-trends-greenhouse-gases)
+
+- [ECMWF aerosol optical depth forecasts](https://twitter.com/m_parrington/status/1556585667949481984)
+
+- [Zack Labe Sea Ice GIFs](https://zacklabe.com/arctic-sea-ice-volumethickness/)
+
+
+
+
+
+
 
