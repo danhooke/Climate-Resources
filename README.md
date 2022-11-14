@@ -7,6 +7,7 @@ Collection of open source climate change data sources to use.
 
 ## Climate and Weather
 
+[NCAR Climate Data Guide](https://climatedataguide.ucar.edu/)
 [Planet Parts](https://planet.parts/)
 
 [Zack Labe](https://zacklabe.com/resources-and-data-references/)
